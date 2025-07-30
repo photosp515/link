@@ -1,0 +1,3 @@
+https://github.com/johnwildes/legacy-vbsamples/tree/main
+https://github.com/zhugecaomao/Official-VS2010-Samples-for-CS-4.0
+https://builder.daypilot.org/scheduler
